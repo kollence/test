@@ -1,0 +1,7 @@
+ovo je "free for all" zona :)
+
+u fajlu resenje.php pokazite vestine OOP-a, 
+
+nisu bitni nazivi klasa koje pravite (i da li ima smisla na kraju :)), 
+napravite nekoliko klasa i time predstavite 4 osnove OOP-a (Abstraction, Encapsulation, Inheritance, Polymorphism)
+

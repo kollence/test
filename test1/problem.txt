@@ -1,0 +1,14 @@
+zavrsite funkciju u javascriptu ili php-u 
+
+leva rotacija niza je uzimanje poslednjeg elementa u nizu i stavljanje na prvo mesto
+
+funkcija koja je zapoceta uzima 2 parametra,
+prvi je sam niz a drugi je broj rotacija koje trebamo izvrsiti 
+
+npr na niz [1, 2, 3, 4, 5], ako izvrsimo dve rotacije dobijamo [4, 5, 1, 2, 3] procesom
+
+[1, 2, 3, 4, 5] je prvi niz dobijen u parametru
+[5, 1, 2, 3, 4] je niz posle prve rotacije, uzimamo poslednji clan (5) i prebacamo ga na prvo mesto
+[4, 5, 1, 2, 3] je niz posle druge rotacije, 4 sa poslednjeg na prvo mesto i to bi trebao da bude rezultat funkcije
+
+svoje resenje stavite u resenje1.js ili resenje1.php

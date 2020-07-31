@@ -1,0 +1,11 @@
+nas klijent nam je predstavio problem
+
+imamo 3 osnovne tabele u bazi podataka, kategorije, prozivodi i prodavci
+
+prodavac moze imati vise proizvoda, jedan prozivod pripada samo jednom prodavcu
+kategorija moze imati vise proizvoda, ali i jedan proizvod moze biti u vise kategorija (hint medjutabela) 
+
+napravite stukturu baze, uradite export u kopirajte u resenje.sql, pa da predjemo na problem naseg klijenta 
+
+u fajlu upit.sql upisite sql upit koji odgovara nasem klijentu koji pita 
+"hocu da znam za odredjenog prodavca u kojim sve kategorijama ima proizvode"

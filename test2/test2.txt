@@ -1,0 +1,12 @@
+zavrsite zadatak koristeci Vue framework
+
+na ovome se zasniva veci deo posla :) (komunikacija izmedju Vue i Laravel-a)
+
+u folderu "resenje" imamo index.html i show.html
+
+zadatak je da u fajlu index.html povucete podatke sa linka https://jsonplaceholder.typicode.com/users i napravite listu korisnika sa linkom do show.html
+u show.html pokazite ostale podatke o korisniku u zavisnosti na koji link smo kliknuli
+
+izgled i css nisu bitni, neka bude ruzno koliko god samo da radi :)
+
+biblioteku za XHR pozive birate sami, (axios, jQuery ajax...)  

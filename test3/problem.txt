@@ -1,0 +1,7 @@
+zavrsiti funkciju deljiviParovi() u fajlu resenje.php
+
+ako nam je zadat niz (prvi parametar), naci sve parove njegovih elemenata ciji zbir je deljiv sa zadatim brojem (drugi parametar)
+resenje funkcije bi trebao da bude visedimenzionalni niz
+
+npr ako je prvi parametar niz [1, 2, 3, 4, 5] a drugi parametar 2
+resenje bi bilo [[1, 3], [2, 4], [1, 5], [3, 5]] (zbir svih elemenata (1+3, 2+4, 1+5...) je deljivo sa drugim parametrom 2)
